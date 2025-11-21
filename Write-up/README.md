@@ -1,3 +1,3 @@
-## Write-up for Project 2
+## Write-up
 
-Report
+Report for project 2
